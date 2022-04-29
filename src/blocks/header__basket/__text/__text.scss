@@ -2,6 +2,7 @@
   margin-right: .65rem;
   @include font(500, 1.6rem, 140%);
   color: #2B3350;
+  cursor: pointer;
 }
 .header__basket__text:hover {
   text-decoration: underline; 

@@ -1,5 +1,6 @@
 .header__basket__count {
   @include font(bold, 1.2rem, 140%);
+  cursor: pointer;
 }
 
 @media (max-width: 48em) {
